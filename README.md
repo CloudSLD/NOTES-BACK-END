@@ -46,11 +46,6 @@ Além disto é bom ter um editor para trabalhar com o código como <a href="http
 
 <p align="center">
 
-```bash
-# Clone este repositório
-$ git clone https://github.com/Neves-Rafael/Rocket-Notes-Back-End
-$ npm install 
-$ configure o package.json para utilizar o nodemon e o knex para iniciar a migrate
 
 ```
 </p>
