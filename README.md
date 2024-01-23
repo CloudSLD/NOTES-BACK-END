@@ -70,7 +70,7 @@ Insomnia - BeeKeeper - Sqlite3
 
 <h1 align="center">📝 Licença</h1>
 
-<p align="center">Este projeto esta sobe a licença MIT.</p>
 
-<p align="center">Feito com ❤️ por Rafael Neves 👋🏽 <a href="https://www.linkedin.com/in/rafael-neves-profile/">Entre em Contato</a></p>
+
+<p align="center"> por Victor Hugo  <a href="https://www.linkedin.com/in/victor-hugo-oliveira-b64521214/">Entre em Contato</a></p>
 
